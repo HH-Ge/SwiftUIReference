@@ -13,6 +13,17 @@
 		1C5C0186241DE8D100C6E858 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C5C0185241DE8D100C6E858 /* Assets.xcassets */; };
 		1C5C0189241DE8D100C6E858 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C5C0188241DE8D100C6E858 /* Preview Assets.xcassets */; };
 		1C5C018C241DE8D100C6E858 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5C018A241DE8D100C6E858 /* LaunchScreen.storyboard */; };
+		1C5C019D241DFB0800C6E858 /* ContainerViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C019C241DFB0800C6E858 /* ContainerViews.swift */; };
+		1C5C01A0241E006E00C6E858 /* SwiftUIText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C019F241E006E00C6E858 /* SwiftUIText.swift */; };
+		1C5C01A4241E1C5B00C6E858 /* ArchitecturalViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C01A3241E1C5B00C6E858 /* ArchitecturalViews.swift */; };
+		1C5C01A6241E1D6200C6E858 /* Spacers&Dividers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C01A5241E1D6200C6E858 /* Spacers&Dividers.swift */; };
+		1C5C01A8241E2ED300C6E858 /* StacksViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C01A7241E2ED300C6E858 /* StacksViews.swift */; };
+		1C5C01AA241E385F00C6E858 /* SwiftUIImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C01A9241E385F00C6E858 /* SwiftUIImages.swift */; };
+		1C5C01AC241E386C00C6E858 /* SwiftUIButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C01AB241E386C00C6E858 /* SwiftUIButtons.swift */; };
+		1C5C01AE241E388600C6E858 /* SwiftUIValueSelectors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C01AD241E388600C6E858 /* SwiftUIValueSelectors.swift */; };
+		1C5C01B0241E38A700C6E858 /* SwiftUISupportingTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C01AF241E38A700C6E858 /* SwiftUISupportingTypes.swift */; };
+		1C5C023D241F10F800C6E858 /* ValueSelectors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C023C241F10F800C6E858 /* ValueSelectors.swift */; };
+		1C5C068124241ACF00E601C0 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C068024241ACF00E601C0 /* Shapes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		1C5C0188241DE8D100C6E858 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1C5C018B241DE8D100C6E858 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C5C018D241DE8D100C6E858 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C5C019C241DFB0800C6E858 /* ContainerViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerViews.swift; sourceTree = "<group>"; };
+		1C5C019F241E006E00C6E858 /* SwiftUIText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIText.swift; sourceTree = "<group>"; };
+		1C5C01A3241E1C5B00C6E858 /* ArchitecturalViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchitecturalViews.swift; sourceTree = "<group>"; };
+		1C5C01A5241E1D6200C6E858 /* Spacers&Dividers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Spacers&Dividers.swift"; sourceTree = "<group>"; };
+		1C5C01A7241E2ED300C6E858 /* StacksViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksViews.swift; sourceTree = "<group>"; };
+		1C5C01A9241E385F00C6E858 /* SwiftUIImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIImages.swift; sourceTree = "<group>"; };
+		1C5C01AB241E386C00C6E858 /* SwiftUIButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIButtons.swift; sourceTree = "<group>"; };
+		1C5C01AD241E388600C6E858 /* SwiftUIValueSelectors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIValueSelectors.swift; sourceTree = "<group>"; };
+		1C5C01AF241E38A700C6E858 /* SwiftUISupportingTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISupportingTypes.swift; sourceTree = "<group>"; };
+		1C5C023C241F10F800C6E858 /* ValueSelectors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValueSelectors.swift; sourceTree = "<group>"; };
+		1C5C068024241ACF00E601C0 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +78,8 @@
 		1C5C017E241DE8D000C6E858 /* SwiftUIReference */ = {
 			isa = PBXGroup;
 			children = (
+				1C5C0193241DE8D900C6E858 /* UserInterface */,
+				1C5C01B3241E399100C6E858 /* DataAndEvents */,
 				1C5C017F241DE8D000C6E858 /* AppDelegate.swift */,
 				1C5C0181241DE8D000C6E858 /* SceneDelegate.swift */,
 				1C5C0183241DE8D000C6E858 /* ContentView.swift */,
@@ -73,6 +97,79 @@
 				1C5C0188241DE8D100C6E858 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1C5C0193241DE8D900C6E858 /* UserInterface */ = {
+			isa = PBXGroup;
+			children = (
+				1C5C019E241E003D00C6E858 /* ViewsAndControls */,
+				1C5C0198241DF1BD00C6E858 /* ViewLayoutandPresentation */,
+				1C5C01B1241E38ED00C6E858 /* DrawingAndAnimation */,
+				1C5C01B2241E396300C6E858 /* FrameworkIntergration */,
+			);
+			path = UserInterface;
+			sourceTree = "<group>";
+		};
+		1C5C0198241DF1BD00C6E858 /* ViewLayoutandPresentation */ = {
+			isa = PBXGroup;
+			children = (
+				1C5C01A7241E2ED300C6E858 /* StacksViews.swift */,
+				1C5C019C241DFB0800C6E858 /* ContainerViews.swift */,
+				1C5C01A5241E1D6200C6E858 /* Spacers&Dividers.swift */,
+				1C5C01A3241E1C5B00C6E858 /* ArchitecturalViews.swift */,
+			);
+			path = ViewLayoutandPresentation;
+			sourceTree = "<group>";
+		};
+		1C5C019E241E003D00C6E858 /* ViewsAndControls */ = {
+			isa = PBXGroup;
+			children = (
+				1C5C019F241E006E00C6E858 /* SwiftUIText.swift */,
+				1C5C01A9241E385F00C6E858 /* SwiftUIImages.swift */,
+				1C5C01AB241E386C00C6E858 /* SwiftUIButtons.swift */,
+				1C5C01AD241E388600C6E858 /* SwiftUIValueSelectors.swift */,
+				1C5C01AF241E38A700C6E858 /* SwiftUISupportingTypes.swift */,
+				1C5C023C241F10F800C6E858 /* ValueSelectors.swift */,
+			);
+			path = ViewsAndControls;
+			sourceTree = "<group>";
+		};
+		1C5C01B1241E38ED00C6E858 /* DrawingAndAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				1C5C068024241ACF00E601C0 /* Shapes.swift */,
+			);
+			path = DrawingAndAnimation;
+			sourceTree = "<group>";
+		};
+		1C5C01B2241E396300C6E858 /* FrameworkIntergration */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = FrameworkIntergration;
+			sourceTree = "<group>";
+		};
+		1C5C01B3241E399100C6E858 /* DataAndEvents */ = {
+			isa = PBXGroup;
+			children = (
+				1C5C01B4241E39B100C6E858 /* StateAndDataFlow */,
+				1C5C01B5241E39BE00C6E858 /* Gestures */,
+			);
+			path = DataAndEvents;
+			sourceTree = "<group>";
+		};
+		1C5C01B4241E39B100C6E858 /* StateAndDataFlow */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = StateAndDataFlow;
+			sourceTree = "<group>";
+		};
+		1C5C01B5241E39BE00C6E858 /* Gestures */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Gestures;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -147,8 +244,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C5C0180241DE8D000C6E858 /* AppDelegate.swift in Sources */,
+				1C5C01AE241E388600C6E858 /* SwiftUIValueSelectors.swift in Sources */,
+				1C5C01A6241E1D6200C6E858 /* Spacers&Dividers.swift in Sources */,
 				1C5C0182241DE8D000C6E858 /* SceneDelegate.swift in Sources */,
 				1C5C0184241DE8D000C6E858 /* ContentView.swift in Sources */,
+				1C5C01B0241E38A700C6E858 /* SwiftUISupportingTypes.swift in Sources */,
+				1C5C01AC241E386C00C6E858 /* SwiftUIButtons.swift in Sources */,
+				1C5C068124241ACF00E601C0 /* Shapes.swift in Sources */,
+				1C5C01AA241E385F00C6E858 /* SwiftUIImages.swift in Sources */,
+				1C5C01A8241E2ED300C6E858 /* StacksViews.swift in Sources */,
+				1C5C023D241F10F800C6E858 /* ValueSelectors.swift in Sources */,
+				1C5C01A0241E006E00C6E858 /* SwiftUIText.swift in Sources */,
+				1C5C01A4241E1C5B00C6E858 /* ArchitecturalViews.swift in Sources */,
+				1C5C019D241DFB0800C6E858 /* ContainerViews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

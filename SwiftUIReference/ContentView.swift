@@ -8,9 +8,29 @@
 
 import SwiftUI
 
+var g = false
+
 struct ContentView: View {
+    @State var s = false
+    
     var body: some View {
-        Text("Hello, World!")
+        //var l = "定义在body内"
+        
+        VStack(spacing: 20) {
+            Button(action: {
+                g.toggle()
+            }){
+                Text("g = \(g ? "true" : "false")")
+            }
+           
+            Button(action: {
+                self.s = !self.s
+            }){
+                Text("s = \(s ? "true" : "false")")
+            }
+            
+            
+        }
     }
 }
 
